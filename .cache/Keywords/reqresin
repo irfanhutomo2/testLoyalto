@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "38178AAF4D8F22A005605540F87CCB7A",
+  "keywordClasses": [
+    {
+      "name": "APIWSUtilities",
+      "keywordMethods": [
+        {
+          "name": "verifyuser",
+          "parameters": [
+            {
+              "name": "response",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.ResponseObject",
+                "unresolvedClassName": "ResponseObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
